@@ -32,9 +32,7 @@ Currently, I'm working in the following stack:
   <a href="https://github.com/marcuskbra">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marcuskbra&theme=transparent" />
   </a>
-  <a href="https://github.com/marcuskbra">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcuskbra&langs_count=10&exclude_repo=&card_width=699&hide_border=true&theme=transparent" />
-  </a>
+
   
   <br/>
   <a href="https://github.com/marcuskbra">
@@ -44,7 +42,9 @@ Currently, I'm working in the following stack:
 
 
 <!--
-
+  <a href="https://github.com/marcuskbra">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcuskbra&langs_count=10&exclude_repo=&card_width=699&hide_border=true&theme=transparent" />
+  </a>
 
 **marcuskbra/marcuskbra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
