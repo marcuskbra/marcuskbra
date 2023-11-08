@@ -1,4 +1,4 @@
-# Hello, everyone! 👋
+# Hi! 👋
 
 My name is **Marcus**. I'm a Software Engineer with excellent backend knowledge and over 13 years of practical experience.
 
